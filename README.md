@@ -1,2 +1,2 @@
-# Firebase_Hosting
+# Firebase_collection
 hosting a website with firebase
